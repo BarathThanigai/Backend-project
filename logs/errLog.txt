@@ -1,0 +1,16 @@
+17:06:2025	18:20:57	002349d8-859d-49ea-9d6a-817e414d8613	Error: ENOENT: no such file or directory, stat 'E:\demovit\view\404.html'
+17:06:2025	18:20:58	5d0ba3f2-0a1a-4b6b-a1ee-bea99043d387	Error: ENOENT: no such file or directory, stat 'E:\demovit\view\404.html'
+17:06:2025	19:09:38	8e9b3cb9-a175-4949-bd13-6cd3d72cc05f	Error: ENOENT: no such file or directory, stat 'E:\demovit\routes\views\index.html'
+20:06:2025	18:57:51	569a5a92-b31a-4025-9362-338f459bf46f	ReferenceError: whiteList is not defined
+20:06:2025	18:57:57	f8546276-f6f9-42a5-a152-9fd6bade849a	ReferenceError: whiteList is not defined
+20:06:2025	19:35:23	9ce7c489-2ce7-4a3d-a320-27b6b26ced19	Error: Cannot set headers after they are sent to the client
+20:06:2025	19:35:48	ca10877a-9391-44af-97f4-ac54cf7e5b82	Error: Cannot set headers after they are sent to the client
+20:06:2025	19:35:57	590066f0-195b-49cd-b29b-173f92af49d9	Error: Cannot set headers after they are sent to the client
+20:06:2025	19:38:06	f7da39c8-79df-4860-a75d-b096470a8321	Error: Cannot set headers after they are sent to the client24:06:2025	11:53:55	93e7d8bf-ec94-4cd8-8bce-9aa3d587d41e	Error: secretOrPrivateKey must have a value
+24:06:2025	11:58:02	530605c9-908a-4d78-90b3-9bff45f3dfa5	Error: secretOrPrivateKey must have a value
+24:06:2025	11:58:04	e51d1dde-4cbc-414b-9b6f-38059795bb9e	Error: secretOrPrivateKey must have a value
+24:06:2025	11:58:05	e0276604-747e-4206-aae1-2753e0f348ee	Error: secretOrPrivateKey must have a value
+24:06:2025	11:58:08	b14e8190-2983-4e30-81d1-6ad28cc4e892	Error: secretOrPrivateKey must have a value
+24:06:2025	11:59:06	8f680b11-7328-4d3d-8c8d-e1b1674bb84c	Error: secretOrPrivateKey must have a value
+24:06:2025	11:59:15	c9607d4b-1c9d-41c2-9337-cd5ccaf63449	Error: secretOrPrivateKey must have a value
+24:06:2025	12:13:24	2201e956-1495-40ef-bda4-b395de1da2fd	Error: secretOrPrivateKey must have a value
